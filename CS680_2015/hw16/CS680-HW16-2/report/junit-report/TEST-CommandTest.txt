@@ -1,0 +1,9 @@
+Testsuite: CommandTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.091 sec
+
+Testcase: testRmdirExecute took 0.027 sec
+Testcase: testCdRootExecute took 0.001 sec
+Testcase: testCdExecute took 0 sec
+Testcase: testChownExecute took 0.001 sec
+Testcase: testMkdirExecute took 0.001 sec
+Testcase: testLnExecute took 0.002 sec

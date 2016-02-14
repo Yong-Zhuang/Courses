@@ -1,0 +1,13 @@
+Testsuite: MulticastStockQuoteObservableTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec
+------------- Standard Output ---------------
+Piechart: ticker: Microsoft Stockquote: 21.6
+Table: ticker: Microsoft Stockquote: 21.6
+3D: ticker: Microsoft Stockquote: 21.6
+Piechart: ticker: Microsoft Stockquote: 21.6
+Table: ticker: Microsoft Stockquote: 21.6
+3D: ticker: Microsoft Stockquote: 21.6
+------------- ---------------- ---------------
+
+Testcase: testChangeQuoteFloatString took 0.006 sec
+Testcase: testChangeQuoteStockEvent took 0 sec

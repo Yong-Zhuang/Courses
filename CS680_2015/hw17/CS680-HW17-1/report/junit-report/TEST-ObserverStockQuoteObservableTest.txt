@@ -1,0 +1,13 @@
+Testsuite: ObserverStockQuoteObservableTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 sec
+------------- Standard Output ---------------
+Piechart monitor: Ticker: Microsoft Stock Quote: 21.6
+Table monitor: Ticker: Microsoft Stock Quote: 21.6
+3D monitor: Ticker: Microsoft Stock Quote: 21.6
+Piechart monitor: Ticker: Microsoft Stock Quote: 21.6
+Table monitor: Ticker: Microsoft Stock Quote: 21.6
+3D monitor: Ticker: Microsoft Stock Quote: 21.6
+------------- ---------------- ---------------
+
+Testcase: testChangeQuoteFloatString took 0.007 sec
+Testcase: testChangeQuoteStockEvent took 0.001 sec
