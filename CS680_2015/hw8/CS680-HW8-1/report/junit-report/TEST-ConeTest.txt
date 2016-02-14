@@ -1,8 +1,0 @@
-Testsuite: ConeTest
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.169 sec
-
-Testcase: testTopping took 0.022 sec
-Testcase: testSetBottomScoop took 0.023 sec
-Testcase: testSetTopping took 0.001 sec
-Testcase: testSetSize took 0 sec
-Testcase: testSetPrice took 0 sec
