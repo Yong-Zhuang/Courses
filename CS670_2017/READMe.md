@@ -1,4 +1,1 @@
-#### ADD YOUR INFORMATION
-#### Press: control + X
-#### Type: Y
-#### Press: enter
+CS670 Artificial Intelligence 2017
